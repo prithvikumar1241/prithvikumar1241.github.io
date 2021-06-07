@@ -1,5 +1,4 @@
 # prithvikumar1241.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>Umang Suthar | Profile</title>
@@ -29,9 +28,8 @@
             
             <div class="contact-container container-block">
                 <ul class="list-unstyled contact-list">
-                    <li class="email"><i class="fa fa-envelope"></i>umangsuthar97@gmail.com</li>
-                    <li class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i><a href="https://twitter.com/umangsuthar97">@umangsuthar97</a></li>
-                    <li class="github"><i class="fa fa-github"></i><a href="https://github.com/umangsuthar">github.com/umangsuthar</a></li>
+                    <li class="email"><i class="fa fa-envelope"></i>kanchananil786@gmail.com</li>
+                    <li class="github"><i class="fa fa-github"></i><a href="https://github.com/prithvikumar1241">github.com/prithvikumar1241</a></li>
                 </ul>
             </div><!--//contact-container-->
             <div class="education-container container-block">
