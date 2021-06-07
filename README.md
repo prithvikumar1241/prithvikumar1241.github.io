@@ -12,10 +12,11 @@
       <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://prithvikumar1241.github.io/".</p>
   </font>
   <font color=blue align=center size=5>
+![Dav public school](https://user-images.githubusercontent.com/85395491/121054181-ba28d180-c7d9-11eb-9dcf-f1a8c7286a64.jpg)
+    
     <h2><center><bold>My School</bold></center></h2>
      <p>DAV Public School, Koyla Nagar, Dhanbad came into existence when the school run by Kendriya Vidyalaya Sansthan was handed over to D.A.V. organization on 12 April 2000. It is a project school sponsored by Bharat Cooking Coal Ltd., a subsidiary of Coal India Ltd, and the entire infrastructure has been provided by BCCL. It is an English medium Co-educational school affiliated to the Central Board of Secondary Education, New Delhi, India. It is run by the D.A.V. College Managing Committee, New Delhi. Dr. K.C.Srivastava was the first Principal of the school (Principal 2000-18) and yet now he is the regional director. The new principal of the school is A.K. Pandey Sir. The motto of the school is 'Victory is determination.</p>
        </font>
        <font color=red align=center size=10>THANK YOU.......</font>
        </body>
        </html>
-![Dav public school](https://user-images.githubusercontent.com/85395491/121054181-ba28d180-c7d9-11eb-9dcf-f1a8c7286a64.jpg)
