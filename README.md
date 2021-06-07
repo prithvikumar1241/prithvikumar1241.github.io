@@ -3,16 +3,18 @@
   <head>
     <title>Prithvi Kumar Website</title>
   </head>
-  <body bgcolor=yellow>
+  <body bgcolor="yellow">
     <font color=blue size=5 align=center>
     <h1><center>Prithvi Kumar</center></h1>
-      ![Penguins](https://user-images.githubusercontent.com/85395491/121051897-7c2aae00-c7d7-11eb-98fe-ced72a0c7c26.jpg)
+      ![Penguins](https://user-images.githubusercontent.com/85395491/121052470-0a9f2f80-c7d8-11eb-979f-cec310d644f3.jpg)
+
  <p>Hello I am Prithvi.</p>
       <p>I am 14 years old. I study in DAV Koylanagar in class 9.My  favourite things are drawing, cricket, making HTML web pages.</p>
       <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://prithvikumar1241.github.io/".</p>
   </font>
   <font color=blue align=center size=5>
-   ![Dav public school](https://user-images.githubusercontent.com/85395491/121051609-34a42200-c7d7-11eb-823f-0e1c4c499bc5.jpg)
+   ![Dav public school](https://user-images.githubusercontent.com/85395491/121052568-20145980-c7d8-11eb-9427-b4b96acca09e.jpg)
+
     <h2><center><bold>This is my school</bold></center></h2>
        <p>DAV Public School, Koyla Nagar, Dhanbad came into existence when the school run by Kendriya Vidyalaya Sansthan was handed over to D.A.V. organization on 12 April 2000. It is a project school sponsored by Bharat Cooking Coal Ltd., a subsidiary of Coal India Ltd, and the entire infrastructure has been provided by BCCL. It is an English medium Co-educational school affiliated to the Central Board of Secondary Education, New Delhi, India. It is run by the D.A.V. College Managing Committee, New Delhi. Dr. K.C.Srivastava was the first Principal of the school (Principal 2000-18) and yet now he is the regional director. The new principal of the school is A.K. Pandey Sir. The motto of the school is 'Victory is determination.</p>
        </font>
