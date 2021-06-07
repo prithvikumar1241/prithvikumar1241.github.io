@@ -1,4 +1,3 @@
-![Penguins](https://user-images.githubusercontent.com/85395491/121053381-ea23a500-c7d8-11eb-8f62-264f7f9cd5e2.jpg)
 # prithvikumar1241.github.io
 <html>
   <head>
