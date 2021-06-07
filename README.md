@@ -4,9 +4,9 @@
     <title>Prithvi Kumar Website</title>
   </head>
   <body bgcolor=yellow>
-    <h1><center></bold>Prithvi Kumar</bold></center></h1>
+    <h1><center>Prithvi Kumar</center></h1>
     <font color=blue align=center>
-    <img src=":\Users\Public\Pictures\Sample Pictures.jpg">
+    <img src="C:\Users\Public\Pictures\Sample Pictures.jpg">
       <h1><center>Prithvi Kumar</center></h1>
     </font>
     <font color=blue>
