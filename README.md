@@ -1,24 +1,19 @@
-![Dav public school](https://user-images.githubusercontent.com/85395491/121051127-cf503100-c7d6-11eb-8683-844ff542638b.jpg)
-![Dav public school](https://user-images.githubusercontent.com/85395491/121051147-d5461200-c7d6-11eb-8ab3-be6313bf644d.jpg)
 # prithvikumar1241.github.io
 <html>
   <head>
     <title>Prithvi Kumar Website</title>
   </head>
   <body bgcolor=yellow>
+    <font color=blue size=5 align=center>
     <h1><center>Prithvi Kumar</center></h1>
-    <font color=blue align=center>
-    <img src="C:\Users\Public\Pictures\Sample Pictures.jpg">
-      <h1><center>Prithvi Kumar</center></h1>
-    </font>
-    <font color=blue size=5>
-      <p>Hello I am Prithvi.</p>
+      ![Penguins](https://user-images.githubusercontent.com/85395491/121051897-7c2aae00-c7d7-11eb-98fe-ced72a0c7c26.jpg)
+ <p>Hello I am Prithvi.</p>
       <p>I am 14 years old. I study in DAV Koylanagar in class 9.My  favourite things are drawing, cricket, making HTML web pages.</p>
       <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://prithvikumar1241.github.io/".</p>
   </font>
   <font color=blue align=center size=5>
-  <img src="C:\Users\user\Desktop\HTML program.jpg"
-       <h2><center><bold>This is my school</bold></center></h2>
+   ![Dav public school](https://user-images.githubusercontent.com/85395491/121051609-34a42200-c7d7-11eb-823f-0e1c4c499bc5.jpg)
+    <h2><center><bold>This is my school</bold></center></h2>
        <p>DAV Public School, Koyla Nagar, Dhanbad came into existence when the school run by Kendriya Vidyalaya Sansthan was handed over to D.A.V. organization on 12 April 2000. It is a project school sponsored by Bharat Cooking Coal Ltd., a subsidiary of Coal India Ltd, and the entire infrastructure has been provided by BCCL. It is an English medium Co-educational school affiliated to the Central Board of Secondary Education, New Delhi, India. It is run by the D.A.V. College Managing Committee, New Delhi. Dr. K.C.Srivastava was the first Principal of the school (Principal 2000-18) and yet now he is the regional director. The new principal of the school is A.K. Pandey Sir. The motto of the school is 'Victory is determination.</p>
        </font>
        <font color=red align=center size=10>THANK YOU.......</font>
