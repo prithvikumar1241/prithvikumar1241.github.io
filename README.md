@@ -4,7 +4,7 @@
   <head>
     <title>Prithvi Kumar Website</title>
   </head>
-  <body style="background-color:yellow">
+  <body style="background-color:green">
     <font color=blue size=5 align=center face="Rockwell Extra Bold">
     <h1><center>Prithvi Kumar</center></h1>
        <p>Hello I am Prithvi.</p>
