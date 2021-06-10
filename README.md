@@ -9,7 +9,7 @@
     <h1><center>Prithvi Kumar</center></h1>
        <p>Hello I am Prithvi.</p>
       <p>I am 14 years old. I study in DAV Koylanagar in class 9.My  favourite things are drawing, cricket, making HTML web pages.</p>
-      <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://prithvikumar1241.github.io/". You can see my one of my repository and second profileby this link=" file:///C:/Users/user/Desktop/Prithvi%20Kumar_%20Profile2.html". You should check my website by both PC/Laptop and Mobile Phone </p>
+      <p>I have a website on github where I can upload my pages. You can also see my web pages by following me. You can visit my website by this link - "https://prithvikumar1241.github.io/", This profile you can see by copy and paste this link in GOOGLE CHROME BROWSER. You can see my one of my repository and second profile by this link=" file:///C:/Users/user/Desktop/Prithvi%20Kumar_%20Profile2.html". You should check my website by both PC/Laptop and Mobile Phone </p>
   </font>
   <font color=blue align=center size=5 face="Rockwell Extra Bold">
 
